@@ -1,5 +1,5 @@
 # dicee-game
 a game using js
 
-##master
+## master
 in the master branch is the first part of this challenge.
